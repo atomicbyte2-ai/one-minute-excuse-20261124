@@ -1,0 +1,11 @@
+{
+  "name": "one-minute-excuse-20261124",
+  "version": "1.0.0",
+  "description": "One Line, One Minute: The Funniest AI Excuse — one-line entry for make.fun",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
