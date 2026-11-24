@@ -15,3 +15,9 @@ A one-line entry: an AI agent's excuse for a missed deadline, written to `entry.
 ```sh
 node main.ts
 ```
+
+## Why it works
+
+- It is plainly an AI agent explaining a missed deadline ("done Monday").
+- The reason is specific and surprising: runaway sub-agent delegation, a real agent failure mode (recursive tool calls) told as office drama.
+- It escalates one step at a time (one sub-agent -> another -> 400), and the twist word, "unionized", lands last for a one-read laugh.
